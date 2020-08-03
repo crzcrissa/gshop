@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<clothinglist>
+  <clothing>
+    <id>ec8c25e99f</id>
+    <name>Spaghetti top</name>
+    <price>P120.00</price>
+    <description>Duo te dico volutpat, unum elit oblique per id. Ne duo mollis sapientem intellegebat. Per at augue vidisse percipit, pri vocibus assueverit interesset ut, no dolore luptatum incorrupte nec. In mentitum forensibus nec, nibh eripuit ut pri, tale illud voluptatum ut sea</description>
+  </clothing>
+  <clothing>
+    <id>eca5cf09ff</id>
+    <name>Sweater</name>
+    <price>P195.00</price>
+    <description>Duo te dico volutpat, unum elit oblique per id. Ne duo mollis sapientem intellegebat. Per at augue vidisse percipit, pri vocibus assueverit interesset ut, no dolore luptatum incorrupte nec. In mentitum forensibus nec, nibh eripuit ut pri, tale illud voluptatum ut sea. Sed oratio repudiare ei, cum an magna labitur, eu atqui augue mei.</description>
+  </clothing>
+  <clothing>
+    <id>95adcf3cea</id>
+    <name>Spaghetti top</name>
+    <price>P125.00</price>
+    <description>Duo te dico volutpat, unum elit oblique per id. Ne duo mollis sapientem intellegebat. Per at augue vidisse percipit, pri vocibus assueverit interesset ut, no dolore luptatum incorrupte nec. In mentitum forensibus nec, nibh eripuit ut pri, tale illud voluptatum ut sea. Sed oratio repudiare ei, cum an magna labitur, eu atqui augue mei. Pri consul detracto eu, solet nusquam accusam ex vim.</description>
+  </clothing>
+  <clothing>
+    <id>7571aafce7</id>
+    <name>Croptop</name>
+    <price>P115.00</price>
+    <description>Brand: GTW Urban</description>
+  </clothing>
+  <clothing>
+    <id>822ad97</id>
+    <name>Top and Skirt </name>
+    <price>P100.00 </price>
+    <description>Black</description>
+  </clothing>
+  <clothing>
+    <id>300a526</id>
+    <name> Ringer Dress </name>
+    <price> P100.00 </price>
+    <description> Color: Maroon</description>
+  </clothing>
+</clothinglist>
